@@ -8,3 +8,4 @@ Incomplete problems will be marked with a "¬"
 | --------------|----------------|
 | [Travelling Salesman Problem with Ant Colony Optimization](https://github.com/KevinCheng97/ant-colony-tsp/tree/master/ant-colony-tsp) | Python |
 | [Poles](https://github.com/KevinCheng97/problems/tree/master/poles) | Python & C++ |
+| [¬Substring Queries](https://github.com/KevinCheng97/problems/tree/master/substring-queries) | C++ |
